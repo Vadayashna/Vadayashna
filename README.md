@@ -5,7 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm Ashna Yadav</h1>
 <h3 align="center">Final Year M.Tech student at NSUT Main Campus Delhi, specializing in Computer Science & Engineering | B.Tech graduate in CSE from IGDTUW Kashmere Gate ,Delhi ,India</h3>
-<img align="right" alt="Coding" width="300" src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">
 
 - 🔭 I’m currently working on **NXN Rubiks Cube**
 
